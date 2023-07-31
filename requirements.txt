@@ -1,0 +1,7 @@
+# Name of Packages Used
+1.pandas
+2.matplotlib.pyplot
+3.numpy
+4.sklearn.linear_model
+5.requests
+6.nltk
