@@ -1,6 +1,6 @@
 pandas
-matplotlib.pyplot
+matplotlib
 numpy
-sklearn.linear_model
+sklearn
 requests
 nltk
