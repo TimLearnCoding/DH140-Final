@@ -5,4 +5,3 @@ sklearn
 requests
 nltk
 wordcloud
-re
